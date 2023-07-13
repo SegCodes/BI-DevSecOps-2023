@@ -1,4 +1,21 @@
 def build_report(categories_dict: dict, path: str) -> None:
+    """Builds a OS Reports that contains the following info:
+        
+        1. 10 most biggest directories.
+        2. List of duplicate files (same hash appears more than once).
+        3. 10 newest files.
+        4. 10 oldest files.
+
+    The report is saved as a .txt file in the path provided.
+        
+    Parameters:
+    --------------
+    categories_dict: dict, required
+        The dictionary containing all the lists with the required info per category.
+    
+    path: str, required
+        The path to save the report.
+    """
     report_body = '======== OS REPORT ========'
     report_body += f'\n10 MOST BIGGEST DIRECTORIES:\n'
     biggest_dirs_list = categories_dict['biggest_dirs']
