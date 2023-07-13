@@ -9,15 +9,15 @@
     {
         "name": "list_test.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/list_test.py",
-        "date": 1689268908.0898337,
-        "norm_date": "2023-07-13 13:21:48.089834",
+        "date": 1689275018.5823717,
+        "norm_date": "2023-07-13 15:03:38.582372",
         "hash": "ee0d1b78e9e06f0b147079d15a38a6323ca2f24ea2fd1dec3e5f587e234f0415"
     },
     {
         "name": "report_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/report_handler.py",
-        "date": 1689274026.6080437,
-        "norm_date": "2023-07-13 14:47:06.608044",
+        "date": 1689275524.6578412,
+        "norm_date": "2023-07-13 15:12:04.657841",
         "hash": "102c8d7f61c8948fc80db435e2039fda043d3ed3c6afcb8fe559637f486ce3db"
     },
     {
@@ -30,22 +30,22 @@
     {
         "name": "report_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/report_handler.cpython-310.pyc",
-        "date": 1689274029.3840406,
-        "norm_date": "2023-07-13 14:47:09.384041",
-        "hash": "4b2635c0fcdf20ff3c6161a041862306405ea8ba6507a23c2a1a006b5a661276"
+        "date": 1689275529.737605,
+        "norm_date": "2023-07-13 15:12:09.737605",
+        "hash": "db398effe03b5d4091fc4eb21cb3a385c8efd6112802e2acd0c05837973901b4"
     },
     {
         "name": "os_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/os_handler.cpython-310.pyc",
-        "date": 1689274086.7679777,
-        "norm_date": "2023-07-13 14:48:06.767978",
-        "hash": "818f384f977d399722eaf1c6f9500ec62bea5736241584c4195347b5c8f68a98"
+        "date": 1689275417.4256153,
+        "norm_date": "2023-07-13 15:10:17.425615",
+        "hash": "848134ebf01cdbeb4eb7346e2915c92e9d672d31eea3d91db298c764329f0ca3"
     },
     {
         "name": "os_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/os_handler.py",
-        "date": 1689274075.4599895,
-        "norm_date": "2023-07-13 14:47:55.459990",
+        "date": 1689275259.1272757,
+        "norm_date": "2023-07-13 15:07:39.127276",
         "hash": "40ae7e8a98e3557915243650010e27f1e0fadf0412569d74707f184b11be0333"
     },
     {
@@ -58,23 +58,23 @@
     {
         "name": "files.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files.json",
-        "date": 1689274029.3880405,
-        "norm_date": "2023-07-13 14:47:09.388041",
-        "hash": "e16545c3f7053bd967053396f62d150b741c29ea62366e96038eae5f99603449"
+        "date": 1689275479.209396,
+        "norm_date": "2023-07-13 15:11:19.209396",
+        "hash": "c29b5d581ddea14a7ffa41f3360b5670569a15913483612456c02844faadae80"
     },
     {
         "name": "dirs.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/dirs.json",
-        "date": 1689274086.7759776,
-        "norm_date": "2023-07-13 14:48:06.775978",
-        "hash": "4ad44999b042323d453803df47094dc5587580febef47224fb5ab7b3f90a8577"
+        "date": 1689275529.737605,
+        "norm_date": "2023-07-13 15:12:09.737605",
+        "hash": "0a04569edc5cd1b1b4504e0c29e2fbddb5f24b8caedf6e90d2d8546b09412085"
     },
     {
         "name": "files_report.txt",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files_report.txt",
-        "date": 1689274029.3880405,
-        "norm_date": "2023-07-13 14:47:09.388041",
-        "hash": "644b72166dbf4f8bde03b947c34ba4096f6d8eb234a5358e27407e01bfe63785"
+        "date": 1689275479.209396,
+        "norm_date": "2023-07-13 15:11:19.209396",
+        "hash": "b6580c40c339a0460075ca44b1f60bfe080687e673f6d606a2e0273522e22a99"
     },
     {
         "name": "user_cli.py",
@@ -107,9 +107,9 @@
     {
         "name": "mod_text.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/mod_text.py",
-        "date": 1686892872.1358206,
-        "norm_date": "2023-06-16 01:21:12.135821",
-        "hash": "6ed87075041b5944ee3f72765f11e5db94bee46a884a470e33317e02a7cfd5c2"
+        "date": 1689274903.3234375,
+        "norm_date": "2023-07-13 15:01:43.323437",
+        "hash": "52dfbdeb12a897b2a3658dc5ca9e020ed36abc91441f2ba0b6465072e13cab32"
     },
     {
         "name": "alice.txt",
@@ -152,13 +152,6 @@
         "date": 1687884314.3250244,
         "norm_date": "2023-06-27 12:45:14.325024",
         "hash": "2401b314ec61dfb03687a0b3fe1ee13c767c36a1714200428cdc2209af7771e7"
-    },
-    {
-        "name": "files_report.txt",
-        "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report.txt",
-        "date": 1689271470.8862243,
-        "norm_date": "2023-07-13 14:04:30.886224",
-        "hash": "183d0b108f0d878bb10d6a1ded52559780288d1b4fbe9d3c61f1fe3a49538a32"
     },
     {
         "name": "pyramid.py",
