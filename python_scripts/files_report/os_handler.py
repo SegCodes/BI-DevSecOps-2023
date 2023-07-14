@@ -216,7 +216,7 @@ def get_duplicate_files_list(json_path: str) -> list:
             if curr_file["hash"] == comp_file["hash"]:
                 counter += 1
 
-            if counter > 2 and curr_file["hash"] not in duplicate_file_list:    
+            if counter > 0 and curr_file["hash"] not in duplicate_file_list:    
                 duplicate_file_list.append(curr_file)
             
         return duplicate_file_list

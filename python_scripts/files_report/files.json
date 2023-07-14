@@ -16,9 +16,9 @@
     {
         "name": "report_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/report_handler.py",
-        "date": 1689275524.6578412,
-        "norm_date": "2023-07-13 15:12:04.657841",
-        "hash": "102c8d7f61c8948fc80db435e2039fda043d3ed3c6afcb8fe559637f486ce3db"
+        "date": 1689275864.7928994,
+        "norm_date": "2023-07-13 15:17:44.792899",
+        "hash": "d9a1ca03be7553edce4ecdc63cb87e20244cae72da8e554e86b45d97413112ef"
     },
     {
         "name": "scanner.cpython-310.pyc",
@@ -30,23 +30,23 @@
     {
         "name": "report_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/report_handler.cpython-310.pyc",
-        "date": 1689275529.737605,
-        "norm_date": "2023-07-13 15:12:09.737605",
-        "hash": "db398effe03b5d4091fc4eb21cb3a385c8efd6112802e2acd0c05837973901b4"
+        "date": 1689319113.9365106,
+        "norm_date": "2023-07-14 03:18:33.936511",
+        "hash": "2c128c202b60b3897b8ec498b596228ce529b599f0ec10315333642e8f6bd9bd"
     },
     {
         "name": "os_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/os_handler.cpython-310.pyc",
-        "date": 1689275417.4256153,
-        "norm_date": "2023-07-13 15:10:17.425615",
-        "hash": "848134ebf01cdbeb4eb7346e2915c92e9d672d31eea3d91db298c764329f0ca3"
+        "date": 1689319113.9285097,
+        "norm_date": "2023-07-14 03:18:33.928510",
+        "hash": "f13798e852a1b6ac7e27572aefbbff5d811b5d60beaa33aff9e76cc81f1f8662"
     },
     {
         "name": "os_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/os_handler.py",
-        "date": 1689275259.1272757,
-        "norm_date": "2023-07-13 15:07:39.127276",
-        "hash": "40ae7e8a98e3557915243650010e27f1e0fadf0412569d74707f184b11be0333"
+        "date": 1689319094.6821568,
+        "norm_date": "2023-07-14 03:18:14.682157",
+        "hash": "3d235d5e7ce17bd359deb5c494795e9588bab27bf30def69f2b0f379ed7556ad"
     },
     {
         "name": "main.py",
@@ -58,23 +58,23 @@
     {
         "name": "files.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files.json",
-        "date": 1689275479.209396,
-        "norm_date": "2023-07-13 15:11:19.209396",
-        "hash": "c29b5d581ddea14a7ffa41f3360b5670569a15913483612456c02844faadae80"
+        "date": 1689275529.737605,
+        "norm_date": "2023-07-13 15:12:09.737605",
+        "hash": "c018273187f1d3bcdc00254842b220829a174401931dd16a2efb0839f93cc2c4"
     },
     {
         "name": "dirs.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/dirs.json",
-        "date": 1689275529.737605,
-        "norm_date": "2023-07-13 15:12:09.737605",
-        "hash": "0a04569edc5cd1b1b4504e0c29e2fbddb5f24b8caedf6e90d2d8546b09412085"
+        "date": 1689319113.9365106,
+        "norm_date": "2023-07-14 03:18:33.936511",
+        "hash": "66837ca7253bf2afbfb31f1e06ffcf4ca996685fd279d5032f5fba421b32187b"
     },
     {
         "name": "files_report.txt",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files_report.txt",
-        "date": 1689275479.209396,
-        "norm_date": "2023-07-13 15:11:19.209396",
-        "hash": "b6580c40c339a0460075ca44b1f60bfe080687e673f6d606a2e0273522e22a99"
+        "date": 1689275529.737605,
+        "norm_date": "2023-07-13 15:12:09.737605",
+        "hash": "c66d863c0e3f3f36ac9c177016eb6760c773676ae22aee6b19f347a7e50e478d"
     },
     {
         "name": "user_cli.py",
@@ -107,9 +107,9 @@
     {
         "name": "mod_text.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/mod_text.py",
-        "date": 1689274903.3234375,
-        "norm_date": "2023-07-13 15:01:43.323437",
-        "hash": "52dfbdeb12a897b2a3658dc5ca9e020ed36abc91441f2ba0b6465072e13cab32"
+        "date": 1689275579.0726142,
+        "norm_date": "2023-07-13 15:12:59.072614",
+        "hash": "6ed87075041b5944ee3f72765f11e5db94bee46a884a470e33317e02a7cfd5c2"
     },
     {
         "name": "alice.txt",
