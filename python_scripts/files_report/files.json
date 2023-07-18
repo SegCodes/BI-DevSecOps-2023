@@ -37,16 +37,16 @@
     {
         "name": "os_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/os_handler.cpython-310.pyc",
-        "date": 1689319113.9285097,
-        "norm_date": "2023-07-14 03:18:33.928510",
-        "hash": "f13798e852a1b6ac7e27572aefbbff5d811b5d60beaa33aff9e76cc81f1f8662"
+        "date": 1689695879.8102016,
+        "norm_date": "2023-07-18 11:57:59.810202",
+        "hash": "a676474b3f13cc81e3a16ea9392afef168272811615d6859a427cf18bbba6764"
     },
     {
         "name": "os_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/os_handler.py",
-        "date": 1689319094.6821568,
-        "norm_date": "2023-07-14 03:18:14.682157",
-        "hash": "3d235d5e7ce17bd359deb5c494795e9588bab27bf30def69f2b0f379ed7556ad"
+        "date": 1689695873.9860756,
+        "norm_date": "2023-07-18 11:57:53.986076",
+        "hash": "5675b1224e36110d6332ba996f5c52235150df6d5464f11080040e975bc30a46"
     },
     {
         "name": "main.py",
@@ -58,23 +58,23 @@
     {
         "name": "files.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files.json",
-        "date": 1689275529.737605,
-        "norm_date": "2023-07-13 15:12:09.737605",
-        "hash": "c018273187f1d3bcdc00254842b220829a174401931dd16a2efb0839f93cc2c4"
+        "date": 1689319113.9445117,
+        "norm_date": "2023-07-14 03:18:33.944512",
+        "hash": "4d326f2aab77e4e1b27d13ecffc480f0bee727a69acd64130a94954479ececd3"
     },
     {
         "name": "dirs.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/dirs.json",
-        "date": 1689319113.9365106,
-        "norm_date": "2023-07-14 03:18:33.936511",
-        "hash": "66837ca7253bf2afbfb31f1e06ffcf4ca996685fd279d5032f5fba421b32187b"
+        "date": 1689695879.8222017,
+        "norm_date": "2023-07-18 11:57:59.822202",
+        "hash": "955ad19d9ccfd3700c8fc4377e01aca1109d0318e59e30b2fd29f7d7c4af01d7"
     },
     {
         "name": "files_report.txt",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files_report.txt",
-        "date": 1689275529.737605,
-        "norm_date": "2023-07-13 15:12:09.737605",
-        "hash": "c66d863c0e3f3f36ac9c177016eb6760c773676ae22aee6b19f347a7e50e478d"
+        "date": 1689319113.9445117,
+        "norm_date": "2023-07-14 03:18:33.944512",
+        "hash": "3b31f6cf5afd83819d8fbf74b56766e7e6647c3bc6ea3369aec261bba7c012b4"
     },
     {
         "name": "user_cli.py",

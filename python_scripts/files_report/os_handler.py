@@ -213,12 +213,13 @@ def get_duplicate_files_list(json_path: str) -> list:
         duplicate_file_list = []
         counter = 0
         for curr_file, comp_file in itertools.combinations(files_list, 2):
-            if curr_file["hash"] == comp_file["hash"]:
+            if curr_file["hash"] == comp_file["hash"] and curr_file["path"] != comp_file["path"]:
                 counter += 1
 
             if counter > 0 and curr_file["hash"] not in duplicate_file_list:    
                 duplicate_file_list.append(curr_file)
             
+            counter = 0
         return duplicate_file_list
 
 def save_list_to_json(obj_list: list, path: str) -> None:

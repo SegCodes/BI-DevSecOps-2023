@@ -2,14 +2,14 @@
     {
         "name": "files_report",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report",
-        "size": 32362,
-        "kb_size": 31.6
+        "size": 32455,
+        "kb_size": 31.69
     },
     {
         "name": "__pycache__",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__",
-        "size": 10043,
-        "kb_size": 9.81
+        "size": 10068,
+        "kb_size": 9.83
     },
     {
         "name": "users",
