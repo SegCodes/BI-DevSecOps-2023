@@ -1,71 +1,93 @@
 ======== OS REPORT ========
-10 MOST BIGGEST DIRECTORIES:
+------- 10 MOST BIGGEST DIRECTORIES ------
 1:
 	Name: read_txt
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt
-	Size: 150.51 KB
+	Size: 451.12 KB
 2:
 	Name: files_report
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report
-	Size: 31.69 KB
+	Size: 26.34 KB
 3:
+	Name: files_report_fixed
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed
+	Size: 13.29 KB
+4:
 	Name: __pycache__
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__
 	Size: 9.83 KB
-4:
+5:
+	Name: __pycache__
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/__pycache__
+	Size: 6.31 KB
+6:
 	Name: users1
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users1
-	Size: 3.27 KB
-5:
+	Size: 3.37 KB
+7:
 	Name: users
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users
-	Size: 2.19 KB
+	Size: 2.29 KB
 
-DUPLICATE FILES:
+------ DUPLICATE FILES ------
+Name: multi_table.py
+Paths:
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/multi_table.py
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users1/multi_table.py
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/multi_table.py
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users/multi_table.py
+File's Total Appearances: 4
 
-10 NEWEST FILES:
+Name: alice-2.txt
+Paths:
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/alice-3.txt
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/alice.txt
+	/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/alice-2.txt
+File's Total Appearances: 3
+
+------ 10 NEWEST FILES ------
 1:
-	Name: dirs.json
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/dirs.json
-	Creation Date: 2023-07-18 11:57:59.822202
-2:
-	Name: os_handler.cpython-310.pyc
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/os_handler.cpython-310.pyc
-	Creation Date: 2023-07-18 11:57:59.810202
-3:
-	Name: os_handler.py
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/os_handler.py
-	Creation Date: 2023-07-18 11:57:53.986076
-4:
-	Name: files.json
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files.json
-	Creation Date: 2023-07-14 03:18:33.944512
-5:
-	Name: files_report.txt
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files_report.txt
-	Creation Date: 2023-07-14 03:18:33.944512
-6:
 	Name: report_handler.cpython-310.pyc
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/report_handler.cpython-310.pyc
-	Creation Date: 2023-07-14 03:18:33.936511
-7:
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/__pycache__/report_handler.cpython-310.pyc
+	Creation Date: 2023-07-21 09:52:53.921076
+2:
 	Name: report_handler.py
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/report_handler.py
-	Creation Date: 2023-07-13 15:17:44.792899
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/report_handler.py
+	Creation Date: 2023-07-21 09:52:47.837107
+3:
+	Name: files_report.txt
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/files_report.txt
+	Creation Date: 2023-07-21 09:52:13.281293
+4:
+	Name: multi_table.py
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users/multi_table.py
+	Creation Date: 2023-07-21 09:52:03.497348
+5:
+	Name: multi_table.py
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/users1/multi_table.py
+	Creation Date: 2023-07-21 09:52:00.613364
+6:
+	Name: multi_table.py
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/multi_table.py
+	Creation Date: 2023-07-21 09:51:54.465400
+7:
+	Name: os_handler.cpython-310.pyc
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/__pycache__/os_handler.cpython-310.pyc
+	Creation Date: 2023-07-21 09:43:56.653949
 8:
-	Name: mod_text.py
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/mod_text.py
-	Creation Date: 2023-07-13 15:12:59.072614
+	Name: os_handler.py
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/os_handler.py
+	Creation Date: 2023-07-21 09:43:46.518099
 9:
-	Name: list_test.py
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/list_test.py
-	Creation Date: 2023-07-13 15:03:38.582372
+	Name: alice-2.txt
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/read_txt/alice-2.txt
+	Creation Date: 2023-07-21 09:40:22.377845
 10:
 	Name: main.py
-	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/main.py
-	Creation Date: 2023-07-13 14:07:01.402060
+	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/main.py
+	Creation Date: 2023-07-21 09:29:52.481383
 
-10 OLDEST FILES:
+------ 10 OLDEST FILES ------
 1:
 	Name: sevenboom.py
 	Path: /home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/sevenboom.py

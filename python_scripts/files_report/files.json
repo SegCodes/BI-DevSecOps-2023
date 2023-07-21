@@ -37,15 +37,15 @@
     {
         "name": "os_handler.cpython-310.pyc",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/__pycache__/os_handler.cpython-310.pyc",
-        "date": 1689695879.8102016,
-        "norm_date": "2023-07-18 11:57:59.810202",
-        "hash": "a676474b3f13cc81e3a16ea9392afef168272811615d6859a427cf18bbba6764"
+        "date": 1689702763.4344049,
+        "norm_date": "2023-07-18 13:52:43.434405",
+        "hash": "1d07b5f55b966ff9a37764b55a55e2d9184992e2f2b95dae7f9ab99663d64ca6"
     },
     {
         "name": "os_handler.py",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/os_handler.py",
-        "date": 1689695873.9860756,
-        "norm_date": "2023-07-18 11:57:53.986076",
+        "date": 1689700990.1997764,
+        "norm_date": "2023-07-18 13:23:10.199776",
         "hash": "5675b1224e36110d6332ba996f5c52235150df6d5464f11080040e975bc30a46"
     },
     {
@@ -58,23 +58,23 @@
     {
         "name": "files.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files.json",
-        "date": 1689319113.9445117,
-        "norm_date": "2023-07-14 03:18:33.944512",
-        "hash": "4d326f2aab77e4e1b27d13ecffc480f0bee727a69acd64130a94954479ececd3"
+        "date": 1689695879.826202,
+        "norm_date": "2023-07-18 11:57:59.826202",
+        "hash": "c8e038aeddc5ca84f2d2d81cc871103b56f6ca99023632aee030288754a85fa9"
     },
     {
         "name": "dirs.json",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/dirs.json",
-        "date": 1689695879.8222017,
-        "norm_date": "2023-07-18 11:57:59.822202",
-        "hash": "955ad19d9ccfd3700c8fc4377e01aca1109d0318e59e30b2fd29f7d7c4af01d7"
+        "date": 1689702763.4464047,
+        "norm_date": "2023-07-18 13:52:43.446405",
+        "hash": "201078b3211e2f34894037c7f32bd77bb8e1e1d1048acae612e296cca4c29d8d"
     },
     {
         "name": "files_report.txt",
         "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report/files_report.txt",
-        "date": 1689319113.9445117,
-        "norm_date": "2023-07-14 03:18:33.944512",
-        "hash": "3b31f6cf5afd83819d8fbf74b56766e7e6647c3bc6ea3369aec261bba7c012b4"
+        "date": 1689695879.826202,
+        "norm_date": "2023-07-18 11:57:59.826202",
+        "hash": "7a40596c8ad18786e96acc29e8f3bb73d8a73549d4dd3b0d14cef17ad0a87d3c"
     },
     {
         "name": "user_cli.py",
@@ -159,5 +159,33 @@
         "date": 1686673490.1794572,
         "norm_date": "2023-06-13 12:24:50.179457",
         "hash": "d325086049d4cdf4921f1663fe2c9e60f2a937e3edbdead314a6c9d0143e02f5"
+    },
+    {
+        "name": "report_handler.py",
+        "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/report_handler.py",
+        "date": 1689701005.827729,
+        "norm_date": "2023-07-18 13:23:25.827729",
+        "hash": "d9a1ca03be7553edce4ecdc63cb87e20244cae72da8e554e86b45d97413112ef"
+    },
+    {
+        "name": "os_handler.py",
+        "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/os_handler.py",
+        "date": 1689702738.6104994,
+        "norm_date": "2023-07-18 13:52:18.610499",
+        "hash": "7f326195761b0ce6119dd138cfc442534890ab0a2403b53510bf3c5127baeffa"
+    },
+    {
+        "name": "main.py",
+        "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/main.py",
+        "date": 1689702759.5544193,
+        "norm_date": "2023-07-18 13:52:39.554419",
+        "hash": "37843d1f091e083b3c282cf8a806185c7292f3e828a1f32e5830dfded1625755"
+    },
+    {
+        "name": "files_report.txt",
+        "path": "/home/osboxes/Documents/work/BI-DevSecOps-2023/python_scripts/files_report_fixed/files_report.txt",
+        "date": 1689701005.823729,
+        "norm_date": "2023-07-18 13:23:25.823729",
+        "hash": "7a40596c8ad18786e96acc29e8f3bb73d8a73549d4dd3b0d14cef17ad0a87d3c"
     }
 ]
