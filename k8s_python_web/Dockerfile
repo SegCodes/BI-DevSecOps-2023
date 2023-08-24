@@ -9,4 +9,4 @@ RUN pip install -r requirements.txt
 
 ENTRYPOINT [ "python" ]
 
-CMD [ "view.py" ]cta
+CMD [ "view.py" ]
