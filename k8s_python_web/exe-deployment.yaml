@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: exe-deployment
+  labels:
+    app: exe-svc
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: exe-svc
+  template:
+    metadata:
+      labels:
+        app: exe-svc
+    spec:
+      containers:
+      - name: exe-svc
+        image: sagivn/k8s-exe:latest
+        ports:
+        - containerPort: 5000

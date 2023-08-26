@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: exe-loadbalancer
+spec:
+  type: LoadBalancer
+  selector:
+    app: exe-svc
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 5000
