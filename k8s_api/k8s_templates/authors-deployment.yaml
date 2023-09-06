@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authors-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: authors
+  template:
+    metadata:
+      labels:
+        app: authors
+    spec:
+      containers:
+        - name: authors-pod
+          image: sagivn/authorsapi:latest
+          ports:
+            - containerPort: 8000

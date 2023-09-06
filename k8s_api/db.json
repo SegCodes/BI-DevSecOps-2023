@@ -1,0 +1,10 @@
+{
+    "authors": [
+        {"name": "Dan"},
+        {"name": "Steven"}
+    ],
+    "books": [
+        {"name": "Alice", "author": "Dan"},
+        {"name": "Spongebob", "author": "Steven"}
+    ]
+}

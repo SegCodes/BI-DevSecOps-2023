@@ -1,0 +1,13 @@
+FROM python:3.8-alpine
+
+COPY ./requirements.txt /booksapi/requirements.txt
+COPY ./books.py /booksapi/books.py
+COPY ./db.json /booksapi/db.json
+
+WORKDIR /booksapi
+
+RUN pip install -r requirements.txt
+
+# EXPOSE 8001
+
+CMD [ "uvicorn", "books:app", "--host", "0.0.0.0", "--port", "8001" ]
